@@ -1,0 +1,33 @@
+.button{
+    padding: 0.4em;
+    margin: 0.2em;
+    width: 4em;
+    height: 4em;
+    border-radius: 30%;
+    background-color: rgba(202, 232, 214, 0.925);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+    border: 5px solid rgb(25, 210, 198);
+    cursor: pointer;
+    font-family: 'Roboto Slab', serif;
+}
+
+.button:hover{
+    background-color: rgb(228, 9, 46);
+    color: white;
+    font-size: 21px;
+}
+
+.row input{
+    margin: 0.5em;
+    width: 10em;
+    padding: 0.5em;
+    border: 2px solid black;
+    font-size: 32px;
+}
+
+.zero{
+    width: 8.5em;
+    border-radius: 10%;
+}
